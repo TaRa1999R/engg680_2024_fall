@@ -3,4 +3,4 @@ Sahar Sedarat (UCID: 30234160)
 Gopika Menon (UCID: 30046245)
 Elnaz Gholizadeh (UCID: 30264047)
 
-The assignment involves printing specific outputs to the console, including a welcome message and information about the group implementing the code. The assignment also uses Pandas for data management and analytics tasks, like loading CSV files, displaying statistical values, and creating visuals like histograms and scatter plots. 
+⁤The assignment involved printing basic outputs to the console, using Pandas for data management and analytics, like loading CSV files, creating, merging and displaying statistics, and using MatPlotLib to create and save visuals like histograms and scatter plots. 
